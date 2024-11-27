@@ -1,7 +1,7 @@
 # Kengy 🤖
 
 <div align="center">
-  <img src="./docs/static/img/frog_jpeg" alt="frog Banner" width="100%" />
+  <img src="./docs/static/img/frog.jpeg" alt="frog Banner" width="100%" />
 </div>
 
 ## Project Overview
