@@ -76,5 +76,10 @@ You can chat with Kengy on Telegram via his bot: [Kengy Chatbot](https://t.me/ke
    ```bash
    pnpm install
 
-3. Set up your Telegram bot API key and start chatting with your Kengy! 
+3. Set up your Telegram bot API key and openai API key:
+   ```bash
+   cp .env.example .env
 
+4. Start your chat!
+   ```bash
+   pnpm start --characters="characters/kengy.character.json"
