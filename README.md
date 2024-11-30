@@ -7,7 +7,7 @@
 ## Project Overview
 
 bot link: https://t.me/Ignisra_bot<br>
-ca: coming soon~<br>
+ca: https://fun.virtuals.io/agents/0x9a0977cb227D6f76AB2785860e47De9E442e4BD9<br>
 This project is a fork of [Eliza](https://github.com/ai16z/eliza), but with a twist. It creates a more fun, quirky, and personality-driven chatbot — **Ignisra**. Ignisra is a Telegram-based AI bot that can engage in creative and interesting conversations with users. 
 
 ## About Ignisra
